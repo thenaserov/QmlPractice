@@ -162,7 +162,7 @@ Window {
         Rectangle {
             id: jobRect
             width: 150; height: 30
-            color: "light green"
+            color: "greenyellow"
             radius: 10
             Text {
                 id: textOfJobSection

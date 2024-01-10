@@ -59,3 +59,14 @@
 381	486	7266028578022125	CMakeFiles/appBasic_data_types.dir/.rcc/qrc_appBasic_data_types_raw_qml_0.cpp.obj	a495fc09b5bf49b3
 387	4292	7266028615971062	CMakeFiles/appBasic_data_types.dir/.rcc/qmlcache/appBasic_data_types_Main_qml.cpp.obj	8e790ac0dc581fd3
 4293	4783	7266028620803985	appBasic_data_types.exe	c35239dee500cc2c
+31	104	7266032888665722	Basic_data_types/Main.qml	d896b19e5ef87aa3
+31	104	7266032888665722	C:/Users/naser/OneDrive/Documents/QmlPractice/001_Basic_data_types/build-Basic_data_types-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/Basic_data_types/Main.qml	d896b19e5ef87aa3
+19	136	7266032888955936	.qt_plugins/Qt6_QmlPlugins_Imports_appBasic_data_types.cmake	dee977b82dd0c616
+19	136	7266032888955936	C:/Users/naser/OneDrive/Documents/QmlPractice/001_Basic_data_types/build-Basic_data_types-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appBasic_data_types.cmake	dee977b82dd0c616
+146	214	7266032889755063	.rcc/qrc_appBasic_data_types_raw_qml_0.cpp	4f702dc7ed577afe
+146	214	7266032889755063	C:/Users/naser/OneDrive/Documents/QmlPractice/001_Basic_data_types/build-Basic_data_types-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appBasic_data_types_raw_qml_0.cpp	4f702dc7ed577afe
+137	389	7266032891310966	.rcc/qmlcache/appBasic_data_types_Main_qml.cpp	add4084230d5236b
+137	389	7266032891310966	C:/Users/naser/OneDrive/Documents/QmlPractice/001_Basic_data_types/build-Basic_data_types-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appBasic_data_types_Main_qml.cpp	add4084230d5236b
+396	504	7266032892692204	CMakeFiles/appBasic_data_types.dir/.rcc/qrc_appBasic_data_types_raw_qml_0.cpp.obj	a495fc09b5bf49b3
+389	4332	7266032930863960	CMakeFiles/appBasic_data_types.dir/.rcc/qmlcache/appBasic_data_types_Main_qml.cpp.obj	8e790ac0dc581fd3
+4333	4830	7266032935778953	appBasic_data_types.exe	c35239dee500cc2c
