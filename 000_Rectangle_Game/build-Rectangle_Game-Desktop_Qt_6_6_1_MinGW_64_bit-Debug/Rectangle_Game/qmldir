@@ -1,0 +1,5 @@
+module Rectangle_Game
+typeinfo appRectangle_Game.qmltypes
+prefer :/qt/qml/Rectangle_Game/
+Main 1.0 Main.qml
+
