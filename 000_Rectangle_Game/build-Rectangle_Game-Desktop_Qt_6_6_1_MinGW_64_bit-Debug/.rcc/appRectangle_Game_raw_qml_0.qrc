@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Rectangle_Game/">
-    <file alias="Main.qml">C:/Users/naser/OneDrive/Documents/QmlPractice/000_Rectangle_Game/Rectangle_Game/Main.qml</file>
-  </qresource>
-</RCC>
-
