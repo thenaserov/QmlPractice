@@ -1,5 +1,0 @@
-module Property_binding
-typeinfo appProperty_binding.qmltypes
-prefer :/Property_binding/
-Main 1.0 Main.qml
-
