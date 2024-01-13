@@ -1,5 +1,0 @@
-module Properties_and_handlers
-typeinfo appProperties_and_handlers.qmltypes
-prefer :/Properties_and_handlers/
-Main 1.0 Main.qml
-
