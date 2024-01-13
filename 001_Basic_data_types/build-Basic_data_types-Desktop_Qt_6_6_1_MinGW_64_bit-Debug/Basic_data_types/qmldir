@@ -1,0 +1,5 @@
+module Basic_data_types
+typeinfo appBasic_data_types.qmltypes
+prefer :/Basic_data_types/
+Main 1.0 Main.qml
+
